@@ -15,7 +15,7 @@ This example shows how to use file system cache to share responses across calls.
 
 ## Demo
 
-https://solutions-reuse-responses.vercel.app
+https://reuse-responses-at-build-time.vercel.app/
 
 ## How to Use
 
