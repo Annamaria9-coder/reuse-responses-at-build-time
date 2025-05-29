@@ -12,6 +12,7 @@ import notOptimizing from '../public/not-optimizing-board.jpg'
 import pageOptimizing from '../public/page-optimizing-board.jpg'
 import appOptimizing from '../public/cross-page-optimizing-board.jpg'
 
+
 interface Props {
   products: Product[]
 }
